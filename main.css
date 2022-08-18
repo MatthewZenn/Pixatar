@@ -1,5 +1,5 @@
 body, html {
-    background-color: #798C8C;
+    background-color: #96adad;
     background-image: url(Assets/background.png);
     background-size: 10%;
     image-rendering: pixelated;
@@ -14,6 +14,7 @@ body, html {
     image-rendering: pixelated;
     box-shadow: 10px 10px #586666;
     border: 4px solid white;
+    background-color: #96adad;
 }
 
 #canvas {
